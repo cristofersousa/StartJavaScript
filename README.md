@@ -2,7 +2,7 @@
 ![Start JavaScript](http://ourcodeworld.com/public-media/articles/articleocw-565adecfc4fe7.jpg)
 
 #Start JavaScript
-A proposta desse projeto, é fazer com que possa aprender JavaScript nativo, sem o auxílio de frameworks ou bibliotecas. Além de adotar as melhores práticas de códificação **[Clean Code do Tio Bob](http://www.buscape.com.br/codigo-limpo-robert-cecil-martin-8576082675)**, e também fazer a imersão sobre outras tecnologias e ferramentas diárias que compõe o cenário do Web Developer, como uma abordagem sobre sobre Ajax, Json, Rest, [Design Patterns - Ady Osmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) além do uso corriqueiro do [Gulp](http://gulpjs.com/) ou [Node Package Manager](https://www.npmjs.com/) para sermos mais produtivos no dia-a-dia.
+A proposta desse projeto, é fazer com que possa aprender JavaScript nativo, sem o auxílio de frameworks ou bibliotecas. Além de adotar as melhores práticas de códificação **[Clean Code do Tio Bob](http://www.buscape.com.br/codigo-limpo-robert-cecil-martin-8576082675)**,  [Design Patterns - Ady Osmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book/), também iremos fazer uma imersão sobre outras tecnologias e ferramentas diárias que compõe o cenário do Web Developer, abordaremos Ajax, Json, Rest, além do uso de pré-processadores CSS [Sass](http://sass-lang.com/), além do uso corriqueiro do [Gulp](http://gulpjs.com/) ou [Node Package Manager](https://www.npmjs.com/) para sermos mais produtivos no dia-a-dia.
 
 #Prós 
  - Após o treinamento você estará apto ao Node.js;
