@@ -10,5 +10,6 @@ A proposta desse projeto, é fazer com que possa aprender JavaScript nativo, sem
 - Você tentará parar de estudar JavaScript, pelo fato dele uma linguagem de programação diferente das outras, o estudo sobre o JavaScript e sobre o Front-end exige que tenha dominio de várias ferramentas e tecnologias, isso oferece um receio para qualquer programador iniciante e experiente, fazendo com que a Developer Front-end seja visto como Gambiarra Developer.
 
 **Referencias**
+
 [Primeiros passos rumo ao Full-Stack com JavaScript!](https://medium.com/@cristofersousa/full-stack-developer-como-me-tornar-um-5c9d23765461)
 
